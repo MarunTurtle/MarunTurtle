@@ -34,3 +34,42 @@
 ---
 
 "교육은 세상을 변화시킬 수 있는 가장 강력한 무기입니다." - 넬슨 만델라
+
+---
+
+# Hello! I'm MarunTurtle 🐢
+
+- **"You look like a turtle... but a bit skinny?"**
+- This was a "compliment" from a student when I first started as an **English teacher**.
+- I live by the motto of moving slowly but surely, hence the name **MarunTurtle**.
+
+## I Want to Solve the Needs of the Educational Field
+- 🎯 **Goal**: To become an EdTech developer
+- 🤝 **Team Player**: Truly committed to collaboration
+- 🌈 **Happiness**: Finding joy in solving other people's problems
+
+## MarunTurtle User Manual 📘
+- I'm very interested in **new languages**.
+- Please call me **Kevin** instead of Jaehyun.
+- My MBTI is **INFP**, though people around me don't always agree.
+- I love **chatting**. Feel free to **start a conversation** with me.
+- While studying **English education**, I often heard, "You don't seem like you'll become an English teacher."
+- I got frustrated creating SW-based classes and thought, **"I should create the service I want!"** which led me here.
+
+## AI Interests 🤖
+- Emotion analysis, NLP, LLM, multimodal
+
+## Fun Facts 🎉
+Guess the false statement and win some Haribo:
+- An interviewer at SSAFY told me, "You seem like a student who works hard but doesn't get good grades."
+- I lived in Russia for 7 years but still dislike Russian.
+- I worked at a Hollys cafe for a long time and love coffee.
+
+## Connect with Me 🌐
+- 🐙 [GitHub](https://github.com/MarunTurtle)
+- 🔗 [Linktree](https://linktr.ee/marun_turtle)
+- 📧 Email: [ssafykevin@gmail.com](mailto:ssafykevin@gmail.com)
+
+---
+
+"Education is the most powerful weapon which you can use to change the world." - Nelson Mandela
