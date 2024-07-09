@@ -39,9 +39,9 @@
 
 # Hello! I'm MarunTurtle 🐢
 
-- **"You look like a turtle... but a bit skinny?"**
+- **"You look like a turtle... but a bit skinny one?"**
 - This was a "compliment" from a student when I first started as an **English teacher**.
-- I live by the motto of moving slowly but surely, hence the name **MarunTurtle**.
+- Since then, I live by the motto of moving slowly but surely, hence the name **MarunTurtle**.
 
 ## I Want to Solve the Needs of the Educational Field
 - 🎯 **Goal**: To become an EdTech developer
