@@ -68,7 +68,7 @@ Guess the false statement and win some Haribo:
 ## Connect with Me 🌐
 - 🐙 [GitHub](https://github.com/MarunTurtle)
 - 🔗 [Linktree](https://linktr.ee/marun_turtle)
-- 📧 Email: [ssafykevin@gmail.com](mailto:ssafykevin@gmail.com)
+- 📧 [ssafykevin@gmail.com](mailto:ssafykevin@gmail.com)
 
 ---
 
