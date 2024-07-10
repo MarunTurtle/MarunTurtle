@@ -73,3 +73,13 @@ Guess the false statement and win some Haribo:
 ---
 
 "Education is the most powerful weapon which you can use to change the world." - Nelson Mandela
+
+## Block quotes
+- `>`
+  - > To be or not to be
+- `>>`
+  - >> Love is an open door
+
+## Table
+| Name | Age | Major |
+| Kevin| 100 | Math  | 
