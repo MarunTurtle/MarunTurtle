@@ -74,9 +74,4 @@ Guess the false statement and win some Haribo:
 
 "Education is the most powerful weapon which you can use to change the world." - Nelson Mandela
 
-## Table
-| Name | Age | Major |
-|------|-----|-------|
-| Kevin| 100 | Math  |
-
  
