@@ -29,7 +29,7 @@
 ## 연결하기 🌐
 - 🐙 [GitHub](https://github.com/MarunTurtle)
 - 🔗 [Linktree](https://linktr.ee/marun_turtle)
-- 📧 이메일: [ssafykevin@gmail.com](mailto:ssafykevin@gmail.com)
+- 📧 [ssafykevin@gmail.com](mailto:ssafykevin@gmail.com)
 
 ---
 
