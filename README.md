@@ -49,7 +49,7 @@
 ### 📊 데이터 사이언스 및 머신러닝
 **툴 및 라이브러리:** Pandas, PyTorch, TensorFlow
 
-[![My Skills](https://skillicons.dev/icons?i=python,pandas,pytorch,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pandas,pytorch,tensorflow)](https://skillicons.dev)
 
 ---
 
