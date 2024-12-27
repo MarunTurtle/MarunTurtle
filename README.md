@@ -38,39 +38,37 @@
 
 # Hello! I'm MarunTurtle 🐢
 
-- **"You look like a turtle... but a bit skinny one?"**
-- This was a "compliment" from a student when I first started as an **English teacher**.
-- Since then, I live by the motto of moving slowly but surely, hence the name **MarunTurtle**.
+- **"You look like a turtle... but a bit skinny one?"**  
+  This was a "compliment" from a student when I first started as an **English teacher**.  
+  Since then, I live by the motto of moving **slowly but surely**, hence the name **MarunTurtle**.
 
 ## I Want to Solve the Needs of the Educational Field
-- 🎯 **Goal**: To become an EdTech developer
-- 🤝 **Team Player**: Truly committed to collaboration
-- 🌈 **Happiness**: Finding joy in solving other people's problems
+- 🎯 **Goal**: To become the CEO of an EdTech company  
+- 🤝 **Team Player**: Truly committed to collaboration  
+- 🌈 **Happiness**: Finding joy in solving other people's problems  
 
 ## MarunTurtle User Manual 📘
-- I'm very interested in **new languages**.
-- Please call me **Kevin** instead of Jaehyun.
-- My MBTI is **INFP**, though people around me don't always agree.
-- I love **chatting**. Feel free to **start a conversation** with me.
-- While studying **English education**, I often heard, "You don't seem like you'll become an English teacher."
-- I got frustrated creating SW-based classes and thought, **"I should create the service I want!"** which led me here.
+- I'm very interested in **new languages** and learn them quickly.  
+- My MBTI is **INFP**, though people around me don’t seem to agree.  
+- I love **chatting** and am happy if you **start a conversation** with me.  
+- While studying **English education**, the phrase I heard the most was, "You don’t seem like you’ll become an English teacher."  
+- Creating SW-based classes made me frustrated, so I decided:  
+  **"I should create the service I want myself!"**  
 
 ## AI Interests 🤖
-- Emotion analysis, NLP, LLM, multimodal
+- Emotion analysis, natural language understanding, NLP, and multimodal AI  
 
-## Fun Facts 🎉
-Guess the false statement and win some Haribo:
-- An interviewer at SSAFY told me, "You seem like a student who works hard but doesn't get good grades."
-- I lived in Russia for 7 years but still dislike Russian.
-- I worked at a Hollys cafe for a long time and love coffee.
+## Fun Facts 🎉  
+Guess the false statement and win some Haribo:  
+1. An interviewer at SSAFY once told me, "You seem like a student who works hard but doesn’t get good grades."  
+2. I lived in Russia for 7 years but still dislike Russian.  
+3. I worked at a Hollys cafe for a long time and love coffee.  
 
-## Connect with Me 🌐
-- 🐙 [GitHub](https://github.com/MarunTurtle)
-- 🔗 [Linktree](https://linktr.ee/marun_turtle)
-- 📧 [ssafykevin@gmail.com](mailto:ssafykevin@gmail.com)
+## Connect with Me 🌐  
+- 🐙 [GitHub](https://github.com/MarunTurtle)  
+- 🔗 [Linktree](https://linktr.ee/marun_turtle)  
+- 📧 [isprofound@gmail.com](mailto:isprofound@gmail.com)  
 
 ---
 
-"Education is the most powerful weapon which you can use to change the world." - Nelson Mandela
-
- 
+"Education is the most powerful weapon which you can use to change the world." - Nelson Mandela  
