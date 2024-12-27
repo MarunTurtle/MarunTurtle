@@ -16,9 +16,54 @@
 - **영어교육과** 다니면서 **넌 영어교사 안 할 것 같다**는 말을 제일 많이 들었어요.
 - SW 활용 수업 만들다가 답답해서 **내가 원하는 서비스, 내가 만들어야겠다!** 는 마음으로 왔어요.
 
-## 기술 스택
+## 🛠️ 나의 기술 스택
 
+### 🖥️ 프론트엔드 개발
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,vue,vuetify,flutter,swift)](https://skillicons.dev)
 
+- **언어 및 프레임워크:** HTML5, CSS3, Bootstrap, Tailwind CSS, React, Vue.js, Vuetify, Flutter, Swift
+
+---
+
+### 🔧 백엔드 개발
+[![My Skills](https://skillicons.dev/icons?i=python,flask,django,nodejs,spring)](https://skillicons.dev)
+
+- **언어 및 프레임워크:** Python, Flask, Django, Node.js, Spring
+
+---
+
+### 🗃️ 데이터베이스
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase)](https://skillicons.dev)
+
+- **데이터베이스:** MongoDB, MySQL, SQLite, Firebase
+
+---
+
+### 📊 데이터 사이언스 및 머신러닝
+[![My Skills](https://skillicons.dev/icons?i=python,pandas,pytorch,tensorflow)](https://skillicons.dev)
+
+- **툴 및 라이브러리:** Pandas, PyTorch, TensorFlow
+
+---
+
+### 🔄 버전 관리 및 협업
+[![My Skills](https://skillicons.dev/icons?i=git,github,postman)](https://skillicons.dev)
+
+- **툴:** Git, GitHub, Postman
+
+---
+
+### 📱 디자인 및 프로토타이핑
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+
+- **툴:** Figma
+
+---
+
+### ⚙️ 프로그래밍 언어
+[![My Skills](https://skillicons.dev/icons?i=c,java,js,typescript,bash)](https://skillicons.dev)
+
+- **언어:** C, Java, JavaScript, TypeScript, Bash
 
 ## AI 관심분야 🤖
 - 감정분석, 자연어이해, NLP, 멀티모달
@@ -61,35 +106,52 @@
 
 ## 🛠️ My Technical Stack
 
-🖥️ Frontend Development
+### 🖥️ Frontend Development
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,vue,vuetify,flutter,swift)](https://skillicons.dev)
 
-	•	Languages & Frameworks: HTML5, CSS3, Bootstrap, Tailwind CSS, React, Vue.js, Vuetify, Flutter, Swift
+- **Languages & Frameworks:** HTML5, CSS3, Bootstrap, Tailwind CSS, React, Vue.js, Vuetify, Flutter, Swift
 
-🔧 Backend Development
+---
 
-	•	Languages & Frameworks: Python, Flask, Django, Node.js, Spring
+### 🔧 Backend Development
+[![My Skills](https://skillicons.dev/icons?i=python,flask,django,nodejs,spring)](https://skillicons.dev)
 
-🗃️ Databases
+- **Languages & Frameworks:** Python, Flask, Django, Node.js, Spring
 
-	•	Databases: MongoDB, MySQL, SQLite, Firebase
+---
 
-📊 Data Science & Machine Learning
+### 🗃️ Databases
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase)](https://skillicons.dev)
 
-	•	Tools & Libraries: Pandas, PyTorch, TensorFlow
+- **Databases:** MongoDB, MySQL, SQLite, Firebase
 
-🔄 Version Control & Collaboration
+---
 
-	•	Tools: Git, GitHub, Postman
+### 📊 Data Science & Machine Learning
+[![My Skills](https://skillicons.dev/icons?i=python,pandas,pytorch,tensorflow)](https://skillicons.dev)
 
-📱 Design & Prototyping
+- **Tools & Libraries:** Pandas, PyTorch, TensorFlow
 
-	•	Tools: Figma
+---
 
-⚙️ Programming Languages
+### 🔄 Version Control & Collaboration
+[![My Skills](https://skillicons.dev/icons?i=git,github,postman)](https://skillicons.dev)
 
-	•	Languages: C, Java, JavaScript, TypeScript, Bash
+- **Tools:** Git, GitHub, Postman
 
-You can copy and paste this into your GitHub README to showcase your skills in a professional and visually appealing manner. Let me know if you’d like further customization! 🚀
+---
+
+### 📱 Design & Prototyping
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+
+- **Tools:** Figma
+
+---
+
+### ⚙️ Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=c,java,js,typescript,bash)](https://skillicons.dev)
+
+- **Languages:** C, Java, JavaScript, TypeScript, Bash
 
 ## AI Interests 🤖
 - Emotion analysis, natural language understanding, NLP, and multimodal AI  
