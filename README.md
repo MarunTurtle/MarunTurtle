@@ -19,49 +19,49 @@
 ## 🛠️ 나의 기술 스택
 
 ### ⚙️ 프로그래밍 언어
-- **언어:** C, Java, Python, JavaScript, TypeScript
+**언어:** C, Java, Python, JavaScript, TypeScript
 
 [![My Skills](https://skillicons.dev/icons?i=c,java,python,js,typescript)](https://skillicons.dev)
 
 ---
 
 ### 🖥️ 프론트엔드 개발
-- **언어 및 프레임워크:** HTML5, CSS3, Bootstrap, Tailwind CSS, React, Vue.js, Vuetify, Flutter, Swift
-- 
+**언어 및 프레임워크:** HTML5, CSS3, Bootstrap, Tailwind CSS, React, Vue.js, Vuetify, Flutter, Swift
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,vue,vuetify,flutter,swift)](https://skillicons.dev)
 
 ---
 
 ### 🔧 백엔드 개발
-- **언어 및 프레임워크:** Python, Flask, Django, Node.js, Spring
+**언어 및 프레임워크:** Python, Flask, Django, Node.js, Spring
 
 [![My Skills](https://skillicons.dev/icons?i=python,flask,django,nodejs,spring)](https://skillicons.dev)
 
 ---
 
 ### 🗃️ 데이터베이스
-- **데이터베이스:** MongoDB, MySQL, SQLite, Firebase
+**데이터베이스:** MongoDB, MySQL, SQLite, Firebase
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase)](https://skillicons.dev)
 
 ---
 
 ### 📊 데이터 사이언스 및 머신러닝
-- **툴 및 라이브러리:** Pandas, PyTorch, TensorFlow
+**툴 및 라이브러리:** Pandas, PyTorch, TensorFlow
 
 [![My Skills](https://skillicons.dev/icons?i=python,pandas,pytorch,tensorflow)](https://skillicons.dev)
 
 ---
 
 ### 🔄 버전 관리 및 협업
-- **툴:** Git, GitHub, Postman
+**툴:** Git, GitHub, Postman
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,postman)](https://skillicons.dev)
 
 ---
 
 ### 📱 디자인 및 프로토타이핑
-- **툴:** Figma, Miro, Canva
+**툴:** Figma, Miro, Canva
 
 <p>
   <a href="https://figma.com" target="_blank">
@@ -119,42 +119,42 @@
 ## 🛠️ My Technical Stack
 
 ### ⚙️ Programming Languages
-- **Languages:** C, Java, Python, JavaScript, TypeScript
+**Languages:** C, Java, Python, JavaScript, TypeScript
 [![My Skills](https://skillicons.dev/icons?i=c,java,python,js,typescript)](https://skillicons.dev)
 
 ---
 
 ### 🖥️ Frontend Development
-- **Languages & Frameworks:** HTML5, CSS3, Bootstrap, Tailwind CSS, React, Vue.js, Vuetify, Flutter, Swift
+**Languages & Frameworks:** HTML5, CSS3, Bootstrap, Tailwind CSS, React, Vue.js, Vuetify, Flutter, Swift
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,vue,vuetify,flutter,swift)](https://skillicons.dev)
 
 ---
 ### 🔧 Backend Development
-- **Languages & Frameworks:** Python, Flask, Django, Node.js, Spring
+**Languages & Frameworks:** Python, Flask, Django, Node.js, Spring
 [![My Skills](https://skillicons.dev/icons?i=python,flask,django,nodejs,spring)](https://skillicons.dev)
 
 ---
 
 ### 🗃️ Databases
-- **Databases:** MongoDB, MySQL, SQLite, Firebase
+**Databases:** MongoDB, MySQL, SQLite, Firebase
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase)](https://skillicons.dev)
 
 ---
 
 ### 📊 Data Science & Machine Learning
-- **Tools & Libraries:** Pandas, PyTorch, TensorFlow
+**Tools & Libraries:** Pandas, PyTorch, TensorFlow
 [![My Skills](https://skillicons.dev/icons?i=python,pandas,pytorch,tensorflow)](https://skillicons.dev)
 
 ---
 
 ### 🔄 Version Control & Collaboration
-- **Tools:** Git, GitHub, Postman
+**Tools:** Git, GitHub, Postman
 [![My Skills](https://skillicons.dev/icons?i=git,github,postman)](https://skillicons.dev)
 
 ---
 
 ### 📱 Design & Prototyping
-- **Tools:** Figma, Miro, Canva
+**Tools:** Figma, Miro, Canva
 <p>
   <a href="https://figma.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="48">
