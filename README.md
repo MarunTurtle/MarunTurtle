@@ -47,9 +47,10 @@
 ---
 
 ### 📊 데이터 사이언스 및 머신러닝
-**툴 및 라이브러리:** Pandas, PyTorch, TensorFlow
+**툴 및 라이브러리:** PyTorch, TensorFlow, Pandas
 
 [![My Skills](https://skillicons.dev/icons?i=pandas,pytorch,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pandas&theme=light)](https://skillicons.dev)
 
 ---
 
@@ -120,35 +121,42 @@
 
 ### ⚙️ Programming Languages
 **Languages:** C, Java, Python, JavaScript, TypeScript
+
 [![My Skills](https://skillicons.dev/icons?i=c,java,python,js,typescript)](https://skillicons.dev)
 
 ---
 
 ### 🖥️ Frontend Development
 **Languages & Frameworks:** HTML5, CSS3, Bootstrap, Tailwind CSS, React, Vue.js, Vuetify, Flutter, Swift
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,vue,vuetify,flutter,swift)](https://skillicons.dev)
 
 ---
 ### 🔧 Backend Development
 **Languages & Frameworks:** Python, Flask, Django, Node.js, Spring
+
 [![My Skills](https://skillicons.dev/icons?i=python,flask,django,nodejs,spring)](https://skillicons.dev)
 
 ---
 
 ### 🗃️ Databases
 **Databases:** MongoDB, MySQL, SQLite, Firebase
+
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase)](https://skillicons.dev)
 
 ---
 
 ### 📊 Data Science & Machine Learning
-**Tools & Libraries:** Pandas, PyTorch, TensorFlow
-[![My Skills](https://skillicons.dev/icons?i=python,pandas,pytorch,tensorflow)](https://skillicons.dev)
+**Tools & Libraries:** PyTorch, TensorFlow, Pandas
+
+[![My Skills](https://skillicons.dev/icons?i=pandas,pytorch,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pandas&theme=light)](https://skillicons.dev)
 
 ---
 
 ### 🔄 Version Control & Collaboration
 **Tools:** Git, GitHub, Postman
+
 [![My Skills](https://skillicons.dev/icons?i=git,github,postman)](https://skillicons.dev)
 
 ---
