@@ -168,7 +168,6 @@
 
 ## 연결하기 🌐
 - 🐙 [GitHub](https://github.com/MarunTurtle)
-- 🔗 [Linktree](https://linktr.ee/marun_turtle)
 - 📧 [isprofound@gmail.com](mailto:isprofound@gmail.com)
 - 📚 **독서/시청 콘텐츠 기록**
   - [2024 독서 기록](https://www.notion.so/2024-6e6f8ac7f1364ad2b997917c26a03f16?pvs=21)
