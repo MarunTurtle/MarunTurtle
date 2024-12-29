@@ -29,7 +29,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,java,python,js,typescript)](https://skillicons.dev)
 
-### 🖥️ 프론트엔드 개발 - HTML5, CSS3, Bootstrap, Tailwind CSS, React, Vue.js, Vuetify, Flutter, Swift
+### 🖥️ 프론트엔드 개발 - HTML5, CSS3, Javascript, Bootstrap, Tailwind CSS, React, Vue.js, Vuetify, Flutter, Swift
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,react,vue,vuetify,flutter,swift)](https://skillicons.dev)
 
