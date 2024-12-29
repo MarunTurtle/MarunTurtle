@@ -84,22 +84,7 @@
 ## AI 관심분야 🤖
 - 감정분석, 자연어이해, NLP, 멀티모달
 
-## 재미있는 사실 🎉
-거짓 문장을 맞추신다면 하리보를 드리죠:
-- 싸피 면접관에게 “열심히는 하는데 성적이 안 나오는 학생 같네요”라는 말을 듣고 긁혔다.
-- 러시아에서 7년 동안 살았지만 러시아어는 아직도 싫어해요.
-- 할리스 카페 알바를 오래해서 커피를 참 좋아해요.
-
-## 연결하기 🌐
-- 🐙 [GitHub](https://github.com/MarunTurtle)
-- 🔗 [Linktree](https://linktr.ee/marun_turtle)
-- 📧 [isprofound@gmail.com](mailto:isprofound@gmail.com)
-- 📚 **독서/시청 콘텐츠 기록**
-  - [2024 독서 기록](https://www.notion.so/2024-6e6f8ac7f1364ad2b997917c26a03f16?pvs=21)
-  - [2024 영상/강의 기록](https://www.notion.so/2024-4e5bed7a52f24ffb8cb9222c4a5cf8de?pvs=21)
-
 ---
-
 
 ## 🎓 교육 및 자격증
 
@@ -174,6 +159,20 @@
 
 ---
 
-"교육은 세상을 변화시킬 수 있는 가장 강력한 무기입니다." - 넬슨 만델라
+## 자 이제 게임을 시작하지 🎉
+거짓 문장을 맞추신다면 하리보를 드리죠:
+- 싸피 면접관에게 “열심히는 하는데 성적이 안 나오는 학생 같네요”라는 말을 듣고 긁혔다.
+- 러시아에서 7년 동안 살았지만 러시아어는 아직도 싫어해요.
+- 할리스 카페 알바를 오래해서 커피를 참 좋아해요.
+
+---
+
+## 연결하기 🌐
+- 🐙 [GitHub](https://github.com/MarunTurtle)
+- 🔗 [Linktree](https://linktr.ee/marun_turtle)
+- 📧 [isprofound@gmail.com](mailto:isprofound@gmail.com)
+- 📚 **독서/시청 콘텐츠 기록**
+  - [2024 독서 기록](https://www.notion.so/2024-6e6f8ac7f1364ad2b997917c26a03f16?pvs=21)
+  - [2024 영상/강의 기록](https://www.notion.so/2024-4e5bed7a52f24ffb8cb9222c4a5cf8de?pvs=21)
 
 ---
