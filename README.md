@@ -20,6 +20,8 @@
 - **영어교육과** 다니면서 **넌 영어교사 안 할 것 같다**는 말을 제일 많이 들었어요.
 - SW 활용 수업 만들다가 답답해서 **내가 원하는 서비스, 내가 만들어야겠다!** 는 마음으로 왔어요.
 
+--- 
+
 ## 🛠️ 나의 기술 스택
 
 ### ⚙️ 프로그래밍 언어
@@ -27,42 +29,30 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,java,python,js,typescript)](https://skillicons.dev)
 
----
-
 ### 🖥️ 프론트엔드 개발
 **언어 및 프레임워크:** HTML5, CSS3, Bootstrap, Tailwind CSS, React, Vue.js, Vuetify, Flutter, Swift
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,vue,vuetify,flutter,swift)](https://skillicons.dev)
-
----
 
 ### 🔧 백엔드 개발
 **언어 및 프레임워크:** Python, Flask, Django, Node.js, Spring
 
 [![My Skills](https://skillicons.dev/icons?i=python,flask,django,nodejs,spring)](https://skillicons.dev)
 
----
-
 ### 🗃️ 데이터베이스
 **데이터베이스:** MongoDB, MySQL, SQLite, Firebase
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase)](https://skillicons.dev)
-
----
 
 ### 📊 데이터 사이언스 및 머신러닝
 **툴 및 라이브러리:** PyTorch, TensorFlow
 
 [![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow)](https://skillicons.dev)
 
----
-
 ### 🔄 버전 관리 및 협업
 **툴:** Git, GitHub, Postman
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,postman)](https://skillicons.dev)
-
----
 
 ### 📱 디자인 및 프로토타이핑
 **툴:** Figma, Miro, Canva
@@ -78,11 +68,6 @@
     <img src="https://sspark.ai/cfimages?u1=CxwIWkcGj%2FpKyiWoGzZYX7MI9zFEMlSRgiKkESKZ7vaFQosZz4CWOTFTDnXBIr9OEUTxfKDAXL2Q%2FJJc%2Fw%2FdWlGGtU8jOHOo9AxDytakjsnR&u2=Opi5ZMvE8ex9%2B7tu&width=1024" alt="Canva" height="48">
   </a>
 </p>
-
----
-
-## AI 관심분야 🤖
-- 감정분석, 자연어이해, NLP, 멀티모달
 
 ---
 
@@ -118,6 +103,8 @@
 - OPIc: AL등급 (2024.03.13)
 - TOEFL: 110점 (2023.05.03)
 
+---
+
 ## 🌏 국제 경험
 
 ### Guangzhou, China (1년)
@@ -126,14 +113,10 @@
 - **프로젝트**: 마인크래프트 & 블록 코딩 활용
 - [파이널 프로젝트 영상 (56초)](https://www.youtube.com/watch?v=1eiwap412nA)
 
----
-
 ### KATUSA 복무 (1년 6개월)
 - **기간**: 2015.02.23 - 2016.11.22
 - **역할**: 미군 인사과 중령 통역
 - **성과**: 전사자 관리 시스템 개발(SharePoint, Access 활용), US Army Commendation Medal 수상
-
----
 
 ### Moscow, Russia (7년)
 - **기간**: 2002 ~ 2009
@@ -148,8 +131,6 @@
 - **기간**: 2023.06 ~ 2024.01
 - **역할**: 중급반 융합 프로젝트 강사
 - **프로젝트**: 세계 건축 프로젝트(Minecraft for Education), 영시 문학 프로젝트(Goodnotes 앱)
-
----
 
 ### 별무리고등학교
 - **기간**: 2021.03 - 2023.02
